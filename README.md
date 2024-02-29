@@ -1,4 +1,4 @@
-About
+About \
 Self Project EXP Stock Status Repository
 Creator: Xinghe
 
