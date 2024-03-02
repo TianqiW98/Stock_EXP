@@ -15,7 +15,7 @@ Project Description: Mid-Long Term Investment Strategy based on EXP Stock Status
           
     * Variance Stability:
         * The fifth week volatility should keep the same as the past month average one based on 95% confidence intervel
-        * 
+        * The variance could be smaller than the previous month's
           
     * Selling out time pt.:
         * If the the trend showing 22% decreasing on the Friday, the model will give out signal on selling out the stock
