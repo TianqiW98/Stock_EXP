@@ -19,3 +19,4 @@ Project Description: Mid-Long Term Investment Strategy based on EXP Stock Status
           
     * Selling out time pt.:
         * If the the trend showing 22% decreasing on the Friday, the model will give out signal on selling out the stock
+        * If the turnover rate is higher than 70%, the model will give out signal on selling out the stock
